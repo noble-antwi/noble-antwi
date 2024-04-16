@@ -4,7 +4,10 @@
 
 ## 🚀 About Me
 
- I'm **Noble Worlanyo Antwi**, a passionate IT professional with a keen interest in cloud infrastructure, security, and DevOps. My journey in the tech world has been driven by a relentless pursuit of knowledge and a commitment to excellence.
+ Hello, I'm Noble Worlanyo Antwi, an IT professional deeply passionate about cloud infrastructure, security, and DevOps. With over five years of experience, I've navigated various roles in the IT landscape, continually evolving to meet new challenges.
+My journey in technology is characterized by a relentless pursuit of knowledge and a commitment to staying at the forefront of industry developments. I thrive on continuous learning and actively seek opportunities to broaden my expertise.
+In my downtime, you'll often find me immersed in football matches, particularly when cheering on my beloved team, Chelsea. Music also holds a special place in my heart, offering relaxation and inspiration.
+I firmly believe in the power of innovation and collaboration, and I'm dedicated to making meaningful contributions to the ever-evolving world of technology.
 
 ### 💡 Career Ambitions
 My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envision myself as a guardian of cloud environments, ensuring their safety, resilience, and compliance. Here’s what I aspire to achieve:
@@ -41,6 +44,10 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 - Docker
 - Ansible
 - Jenkins
+- Nexus
+- New Relic One
+- Nagios
+- Zabbix
 
 ### 🐍 Programming
 - Python
