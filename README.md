@@ -62,8 +62,7 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 | New Relic One: Observability From Beginner to Advanced   | Udemy                           | January 2024 | [New Relic One](https://www.udemy.com/certificate/UC-171f7b71-5b26-4d1a-8335-d0d2b12dbe25/) |
 | AZ-104 Microsoft Azure Administrator course with SIMULATIONS | Udemy                           | November 2023| [Microsoft Azure Administrator](https://www.udemy.com/certificate/UC-2c85a6ee-ca31-477e-a2ec-bb851debb787/) |
 | AWS Certified Solutions Associate                        | Amazon Web Services (AWS)       | March 2023   | [AWS Certified Solutions Associate](https://www.credly.com/badges/2f0224e8-66e2-4388-9d9d-98552c7ff73b/public_url) |
-| Aviatrix Certified Engineer – Multi-Cloud Network Associate | Aviatrix                        | November 2022| [ Multi-Cloud Network Associate
-](https://www.credly.com/badges/74f1f416-477f-4e99-8e2a-d07dee0177b4/public_url) |
+| Aviatrix Certified Engineer – Multi-Cloud Network Associate | Aviatrix                        | November 2022| [ Multi-Cloud Network Associate](https://www.credly.com/badges/74f1f416-477f-4e99-8e2a-d07dee0177b4/public_url) |
 | AWS Cloud Practitioner                                   | Amazon Web Services             | October 2022 | [AWS Cloud Practitioner](https://www.credly.com/badges/866413b2-8f8f-48a8-84c2-4d8d0b85401d/public_url) |
 | Introduction to Cybersecurity                            | Cisco                           | September 2022| [Introduction to Cybersecurity](https://www.credly.com/badges/0e493699-1897-4dea-b3da-7b6072e2244e/public_url) |
 | Azure Data Fundamentals                                  | Microsoft                       | March 2022   | [Azure Data Fundamentals](https://www.credly.com/badges/f1082e80-2124-4f61-9e02-3d049ec7f281/public_url) |
