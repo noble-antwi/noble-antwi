@@ -56,7 +56,7 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 
 ## Training and Certification
 | Name                                                     | Issuing Organization            | Date         | Access |
-|:---------------------------------------------------------|:-------------------------------:|-------------:|:------:|
+|:---------------------------------------------------------:|:-------------------------------:|:-------------:|:------:|
 | SC-200: Microsoft Security Operations Analyst            | Udemy                           | March 2024   | [ SC-200](https://ude.my/UC-cffe9305-0d2a-48bd-a41f-9dfbcafd8659) |
 | SC-300 Course: Microsoft Identity and Access Administrator | Udemy                           | March 2024   | [SC-300](https://www.udemy.com/certificate/UC-fd14c0d3-4e26-4500-90e1-77d5e39aa60a/) |
 | New Relic One: Observability From Beginner to Advanced   | Udemy                           | January 2024 | [New Relic One](https://www.udemy.com/certificate/UC-171f7b71-5b26-4d1a-8335-d0d2b12dbe25/) |
