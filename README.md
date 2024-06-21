@@ -66,10 +66,10 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 | AWS Cloud Practitioner                                   | Amazon Web Services             | October 2022 | [AWS Cloud Practitioner](https://www.credly.com/badges/866413b2-8f8f-48a8-84c2-4d8d0b85401d/public_url) |
 | Introduction to Cybersecurity                            | Cisco                           | September 2022| [Introduction to Cybersecurity](https://www.credly.com/badges/0e493699-1897-4dea-b3da-7b6072e2244e/public_url) |
 | Azure Data Fundamentals                                  | Microsoft                       | March 2022   | [Azure Data Fundamentals](https://www.credly.com/badges/f1082e80-2124-4f61-9e02-3d049ec7f281/public_url) |
-| Google Data Analyst Certificate                          | Coursera (Google)               | August 2021  | [Google Data Analyst Certificate](https://drive.google.com/file/d/16hIyWjavu_X25OYoxPIXmfZO8NnqrBGf/view?usp=sharing) |
-| Google IT Support Certificate                            | Coursera (Google)               | March 2021   | [Google IT Support Certificate](https://drive.google.com/file/d/1gntV6DWSRMm71h8yulywqCfivCctqfuD/view) |
+| Google Data Analyst Certificate                          | Coursera (Google)               | August 2021  | [Google Data Analyst Certificate](https://coursera.org/share/0d33d64c0f2d2bc77be99c93e3821fe3) |
+| Google IT Support Certificate                            | Coursera (Google)               | March 2021   | [Google IT Support Certificate](https://coursera.org/share/2f72fdb5a18e1d805d2432c46ba7f321) |
 | Google Cloud                                             | Andela (Google)                 | February 2021| [Google Cloud](https://drive.google.com/file/d/13-Q2NE6As7De4lI1eIz6SFXMWwgwl8rL/view?usp=sharing) |
-| Windows Server Management and Security                   | Coursera (University of Colorado)| August 2020  | [Windows Server Management and Security](https://drive.google.com/file/d/1cA0UsQrhDpNwF6wtCAF0QVUpFRM-oW2p/view?usp=sharing) |
+| Windows Server Management and Security                   | Coursera (University of Colorado)| August 2020  | [Windows Server Management and Security](https://coursera.org/share/50c407276bc5a04298700eeb1358f032) |
 | Global Internship Program                                | Hash Analytics                  | May 2020     | [Global Internship Program](https://drive.google.com/file/d/1v0S_oWh51VKAJaJm6EuK8kuQiyulY108/view?usp=sharing) |
 | Microsoft Certified Solutions Associate                  | Ucomputing                      | March 2018   | [Microsoft Certified Solutions Associat](https://drive.google.com/file/d/1YsO3JXAGksOcBdtVRQlVz0aXpEpojTzz/view) |
 
