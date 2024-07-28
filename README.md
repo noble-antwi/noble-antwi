@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
- Hello, I'm Noble Worlanyo Antwi, an IT professional deeply passionate about cloud infrastructure, security, and DevOps. With over five years of experience, I've navigated various roles in the IT landscape, continually evolving to meet new challenges.
+ Hello, I'm Noble W. Antwi, an IT professional deeply passionate about cloud infrastructure, security, and DevOps. With over five years of experience, I've navigated various roles in the IT landscape, continually evolving to meet new challenges.
 My journey in technology is characterized by a relentless pursuit of knowledge and a commitment to staying at the forefront of industry developments. I thrive on continuous learning and actively seek opportunities to broaden my expertise.
 In my downtime, you'll often find me immersed in football matches, particularly when cheering on my beloved team, Chelsea. Music also holds a special place in my heart, offering relaxation and inspiration.
 I firmly believe in the power of innovation and collaboration, and I'm dedicated to making meaningful contributions to the ever-evolving world of technology.
