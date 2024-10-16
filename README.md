@@ -80,7 +80,6 @@ If you're passionate about cloud technology, and security, or just want to chat 
 - Twitter: [noble__3](https://twitter.com/noble__3) 🐦
 - Email: [amnworlanyo@gmail.com](mailto:amnworlanyo@gmail.com) ✉️
 - LinkedIn [Noble Antwi Worlanyo](https://www.linkedin.com/in/noble-antwi-worlanyo/) 🔗
-- Phone: [+233543860924](tel:+233543860924) ☎️
 
 
 
