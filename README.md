@@ -1,8 +1,6 @@
+# 📫 WELCOME TO MY PAGE
 
-
-# 📫 WELCOME TO MY PAGE ... 
-
-## 🚀 About Me
+## About Me
 
  Hello, I'm Noble W. Antwi, an IT professional deeply passionate about cloud infrastructure, security, and DevOps. With over five years of experience, I've navigated various roles in the IT landscape, continually evolving to meet new challenges.
 My journey in technology is characterized by a relentless pursuit of knowledge and a commitment to staying at the forefront of industry developments. I thrive on continuous learning and actively seek opportunities to broaden my expertise.
@@ -10,6 +8,7 @@ In my downtime, you'll often find me immersed in football matches, particularly 
 I firmly believe in the power of innovation and collaboration, and I'm dedicated to making meaningful contributions to the ever-evolving world of technology.
 
 ### 💡 Career Ambitions
+
 My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envision myself as a guardian of cloud environments, ensuring their safety, resilience, and compliance. Here’s what I aspire to achieve:
 
 - **Cloud Security:** I aim to master the art of securing cloud platforms. From identity and access management (IAM) to encryption and threat detection, I want to be the go-to person for safeguarding data and applications.
@@ -26,21 +25,25 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 ## 💻 Skills and Expertise
 
 ### ☁️ Cloud Technologies
+
 - Amazon Web Services (AWS)
 - Google Cloud Platform (GCP)
 - Azure
 
 ### 🔒 Security
+
 - Identity and Access Management (IAM)
 - Cloud Security
 - DevSecOps
 
 ### 🌐 Networking
+
 - Computer Networking
 - Cloud Networking
 - VPNs and Firewalls
 
 ### 🛠️ DevOps Tools
+
 - Docker
 - Ansible
 - Jenkins
@@ -50,11 +53,13 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 - Zabbix
 
 ### 🐍 Programming
+
 - Python
 - Bash
 - SQL
 
 ## Training and Certification
+
 | Name                                                     | Issuing Organization            | Date         | Access |
 |:---------------------------------------------------------:|:-------------------------------:|:-------------:|:------:|
 | SC-200: Microsoft Security Operations Analyst            | Udemy                           | March 2024   | [ SC-200](https://ude.my/UC-cffe9305-0d2a-48bd-a41f-9dfbcafd8659) |
@@ -73,13 +78,10 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 | Global Internship Program                                | Hash Analytics                  | May 2020     | [Global Internship Program](https://drive.google.com/file/d/1v0S_oWh51VKAJaJm6EuK8kuQiyulY108/view?usp=sharing) |
 | Microsoft Certified Solutions Associate                  | Ucomputing                      | March 2018   | [Microsoft Certified Solutions Associat](https://drive.google.com/file/d/1YsO3JXAGksOcBdtVRQlVz0aXpEpojTzz/view) |
 
-
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 If you're passionate about cloud technology, and security, or just want to chat about the latest tech trends, feel free to reach out to me. Let's connect and explore opportunities to collaborate and innovate together!
+
 - Twitter: [noble__3](https://twitter.com/noble__3) 🐦
 - Email: [amnworlanyo@gmail.com](mailto:amnworlanyo@gmail.com) ✉️
 - LinkedIn [Noble Antwi Worlanyo](https://www.linkedin.com/in/noble-antwi-worlanyo/) 🔗
-
-
-
