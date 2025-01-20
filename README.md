@@ -82,6 +82,4 @@ My ultimate goal is to become a well-rounded **Cloud Security Engineer**. I envi
 
 If you're passionate about cloud technology, and security, or just want to chat about the latest tech trends, feel free to reach out to me. Let's connect and explore opportunities to collaborate and innovate together!
 
-- Twitter: [noble__3](https://twitter.com/noble__3) 🐦
-- Email: [amnworlanyo@gmail.com](mailto:amnworlanyo@gmail.com) ✉️
 - LinkedIn [Noble Antwi Worlanyo](https://www.linkedin.com/in/noble-antwi-worlanyo/) 🔗
